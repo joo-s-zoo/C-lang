@@ -19,6 +19,6 @@ int main()
             cnt+=bris[i]-sum;
         }
     }
-    printf("The minimum number of moves is %d",cnt);
+    printf("The minimum number of moves is %d.",cnt);
     
 }
